@@ -308,6 +308,8 @@ padding: 11px 16px;
 margin-top: 15px;
 display: inline-block;
 border: none;
+appearance: none;
+-webkit-appearance: none;
 }
 .btn:hover{
     background-color: #ccc;
